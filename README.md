@@ -11,3 +11,6 @@
        PHP >= 7.2
        swoole >= 4.4.4
        mysql >= 5.6
+   2. 执行sql文件，并在 Db.php中修改数据库连接信息  
+   3. 服务端中进入项目 目录 执行 php  Chat.php  
+   4. 客户端使用浏览器访问home 下的index.php 文件

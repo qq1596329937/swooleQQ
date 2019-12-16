@@ -6,3 +6,8 @@
   Chat.php--- swoole服务类  
   Db.php------连接mysql 数据库类     
   swoole.sql--sql文件
+# 使用说明
+   1. 环境准备  
+       PHP >= 7.2
+       swoole >= 4.4.4
+       mysql >= 5.6
